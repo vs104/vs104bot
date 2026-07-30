@@ -8,3 +8,7 @@ Echo bot
 
 ##Func3
 no push
+
+
+## Func4
+make America Great Again

@@ -15,3 +15,6 @@ no push
 ## Func4
 make America Great Again
 
+## Func 5
+Linux helper
+

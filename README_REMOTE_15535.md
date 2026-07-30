@@ -6,12 +6,9 @@ experimental bot for time
 Echo bot
 
 
-## Function 2
-Hello world
-
-## Func3
+##Func3
 no push
+
 
 ## Func4
 make America Great Again
-
